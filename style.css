@@ -1,0 +1,36 @@
+
+
+/** Color Classes **/
+
+.brown {
+  font-size:100px;
+  background-color: brown;
+  width: 835px;
+  height: 500px;
+  left: 50%;
+}
+
+#goffy{
+  width: 400px;
+  float: center;
+  margin-left:216px;
+  position: relative;
+}
+#navigation_bar {
+  display: flex;
+  background-color: brown;
+  margin-bottom: 20px;
+}
+
+.selection {
+  display:inline-block;
+  padding 10px;
+  margin: 0px;
+  border: 3px brown;
+  background-color:brown;
+  cursor: pointer;
+}
+
+body{
+  background-color: black;
+}
