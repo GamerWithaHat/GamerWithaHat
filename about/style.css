@@ -1,0 +1,17 @@
+#navigation_bar {
+  display: flex;
+  background-color: brown;
+  margin-bottom: 20px;
+}
+
+.selection {
+  display:inline-block;
+  padding 10px;
+  margin: 0px;
+  border: 3px solid black;
+  background-color:brown;
+  cursor: pointer;
+}
+body{
+ background-color: darkmagenta;
+}
