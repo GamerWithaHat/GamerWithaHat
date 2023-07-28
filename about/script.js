@@ -1,5 +1,5 @@
 function openlink() {
-  window.location.replace("https://cdpn.io/pen/debug/vYQVxjN?authentication_hash=yoMZELWvyxZk");
+  window.location.replace("../index.html");
 }
 
 var score=0;
